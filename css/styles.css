@@ -101,7 +101,7 @@ font-family: 'Roboto';
 font-weight: 700;
 font-size: 16px;
 line-height: 1.87;
-letter-spacing: inherit;
+letter-spacing: 0.06em;
 }
 .primary-button:hover, .primary-button:focus {
     background-color: var(--hero-btn-hover);
@@ -129,6 +129,7 @@ font-weight: 700;
 line-height: 1.14;
 text-transform: uppercase;
 color: var(--primary-title-color);
+font-size: 14px;
 }
 .benefits-paragraph {
 line-height: 1.71;
